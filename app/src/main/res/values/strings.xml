@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShieldX</string>
+    <string name="action_refresh">Refresh snapshot</string>
+    <string name="action_clear_cache">Clear ShieldX cache</string>
+    <string name="action_schedule">Schedule background maintenance</string>
+    <string name="freed_format">Freed %1$s</string>
+    <string name="schedule_ok">Maintenance scheduled</string>
+    <string name="schedule_failed">Scheduling failed</string>
+</resources>
